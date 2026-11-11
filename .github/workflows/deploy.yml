@@ -21,3 +21,4 @@ jobs:
             **/.git*/**
             .github/**
             README.md
+            drafts/**
